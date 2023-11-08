@@ -1,0 +1,5 @@
+*.csv
+*.txt
+**/.DS_Store
+*.pem
+*.json
